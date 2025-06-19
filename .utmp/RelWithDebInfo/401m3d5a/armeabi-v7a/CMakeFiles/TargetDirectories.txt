@@ -1,0 +1,8 @@
+C:/Projects/ClickerReactor/.utmp/RelWithDebInfo/401m3d5a/armeabi-v7a/CMakeFiles/edit_cache.dir
+C:/Projects/ClickerReactor/.utmp/RelWithDebInfo/401m3d5a/armeabi-v7a/CMakeFiles/rebuild_cache.dir
+C:/Projects/ClickerReactor/.utmp/RelWithDebInfo/401m3d5a/armeabi-v7a/GameActivity/CMakeFiles/game.dir
+C:/Projects/ClickerReactor/.utmp/RelWithDebInfo/401m3d5a/armeabi-v7a/GameActivity/CMakeFiles/edit_cache.dir
+C:/Projects/ClickerReactor/.utmp/RelWithDebInfo/401m3d5a/armeabi-v7a/GameActivity/CMakeFiles/rebuild_cache.dir
+C:/Projects/ClickerReactor/.utmp/RelWithDebInfo/401m3d5a/armeabi-v7a/FramePacing/CMakeFiles/swappywrapper.dir
+C:/Projects/ClickerReactor/.utmp/RelWithDebInfo/401m3d5a/armeabi-v7a/FramePacing/CMakeFiles/edit_cache.dir
+C:/Projects/ClickerReactor/.utmp/RelWithDebInfo/401m3d5a/armeabi-v7a/FramePacing/CMakeFiles/rebuild_cache.dir

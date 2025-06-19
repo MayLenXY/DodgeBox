@@ -1,0 +1,136 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Projects\\ClickerReactor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF6211A-4498-98E2-061F-A402DB370273}|Assembly-CSharp.csproj|c:\\projects\\clickerreactor\\assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF6211A-4498-98E2-061F-A402DB370273}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\gamemanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF6211A-4498-98E2-061F-A402DB370273}|Assembly-CSharp.csproj|C:\\Projects\\ClickerReactor\\assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF6211A-4498-98E2-061F-A402DB370273}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\mainmenu.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF6211A-4498-98E2-061F-A402DB370273}|Assembly-CSharp.csproj|C:\\Projects\\ClickerReactor\\assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF6211A-4498-98E2-061F-A402DB370273}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\playercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF6211A-4498-98E2-061F-A402DB370273}|Assembly-CSharp.csproj|C:\\Projects\\ClickerReactor\\assets\\scripts\\enemymover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF6211A-4498-98E2-061F-A402DB370273}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemymover.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF6211A-4498-98E2-061F-A402DB370273}|Assembly-CSharp.csproj|C:\\Projects\\ClickerReactor\\assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF6211A-4498-98E2-061F-A402DB370273}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\enemyspawner.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF6211A-4498-98E2-061F-A402DB370273}|Assembly-CSharp.csproj|C:\\Projects\\ClickerReactor\\assets\\scripts\\safeareapanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF6211A-4498-98E2-061F-A402DB370273}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\safeareapanel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6FF6211A-4498-98E2-061F-A402DB370273}|Assembly-CSharp.csproj|C:\\Projects\\ClickerReactor\\assets\\scripts\\screenbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6FF6211A-4498-98E2-061F-A402DB370273}|Assembly-CSharp.csproj|solutionrelative:assets\\scripts\\screenbounds.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MainMenu.cs",
+              "DocumentMoniker": "C:\\Projects\\ClickerReactor\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\MainMenu.cs",
+              "ToolTip": "C:\\Projects\\ClickerReactor\\Assets\\Scripts\\MainMenu.cs",
+              "RelativeToolTip": "Assets\\Scripts\\MainMenu.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T19:43:05.431Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SafeAreaPanel.cs",
+              "DocumentMoniker": "C:\\Projects\\ClickerReactor\\Assets\\Scripts\\SafeAreaPanel.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\SafeAreaPanel.cs",
+              "ToolTip": "C:\\Projects\\ClickerReactor\\Assets\\Scripts\\SafeAreaPanel.cs",
+              "RelativeToolTip": "Assets\\Scripts\\SafeAreaPanel.cs",
+              "ViewState": "AgIAACoAAAAAAAAAAAAYwDAAAAA9AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T05:44:10.712Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GameManager.cs",
+              "DocumentMoniker": "C:\\Projects\\ClickerReactor\\Assets\\Scripts\\GameManager.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\GameManager.cs",
+              "ToolTip": "C:\\Projects\\ClickerReactor\\Assets\\Scripts\\GameManager.cs",
+              "RelativeToolTip": "Assets\\Scripts\\GameManager.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAcwGkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T04:28:24.03Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "EnemyMover.cs",
+              "DocumentMoniker": "C:\\Projects\\ClickerReactor\\Assets\\Scripts\\EnemyMover.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemyMover.cs",
+              "ToolTip": "C:\\Projects\\ClickerReactor\\Assets\\Scripts\\EnemyMover.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemyMover.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T04:23:41.256Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "EnemySpawner.cs",
+              "DocumentMoniker": "C:\\Projects\\ClickerReactor\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\EnemySpawner.cs",
+              "ToolTip": "C:\\Projects\\ClickerReactor\\Assets\\Scripts\\EnemySpawner.cs",
+              "RelativeToolTip": "Assets\\Scripts\\EnemySpawner.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T04:19:30.612Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ScreenBounds.cs",
+              "DocumentMoniker": "C:\\Projects\\ClickerReactor\\Assets\\Scripts\\ScreenBounds.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\ScreenBounds.cs",
+              "ToolTip": "C:\\Projects\\ClickerReactor\\Assets\\Scripts\\ScreenBounds.cs",
+              "RelativeToolTip": "Assets\\Scripts\\ScreenBounds.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T04:15:26.149Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "PlayerController.cs",
+              "DocumentMoniker": "C:\\Projects\\ClickerReactor\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeDocumentMoniker": "Assets\\Scripts\\PlayerController.cs",
+              "ToolTip": "C:\\Projects\\ClickerReactor\\Assets\\Scripts\\PlayerController.cs",
+              "RelativeToolTip": "Assets\\Scripts\\PlayerController.cs",
+              "ViewState": "AgIAAEsAAAAAAAAAAAAuwGAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T04:11:41.616Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
